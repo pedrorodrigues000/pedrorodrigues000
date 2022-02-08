@@ -1,7 +1,7 @@
 ### Olá a todos, sou Pedro Rodrigues 👋
 
 
-- 🔭 Atualmente não trabalho
+- 🔭 Atualmente trabalhando como analista de suporte jr
 - 🌱 Estudando python
 - 📫 Contate-me pelo email: pedro.hl579@outlook.com
 - 😄 Pronouns: Dele/ele
@@ -15,12 +15,6 @@
   <div style="display: inline_block"><br>
    <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pedro-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Pedro-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
 </div>
   
   ##
